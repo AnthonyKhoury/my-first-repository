@@ -1,2 +1,2 @@
-# Ignore all SQLite databases
+# Ignore every SQLite databases
 db/*.sqlite3
